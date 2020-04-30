@@ -1,3 +1,3 @@
 def square_array(array)
-  puts array.Math
+  puts array.Math.sqrt
 end
