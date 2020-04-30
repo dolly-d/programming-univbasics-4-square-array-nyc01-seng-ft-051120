@@ -1,5 +1,4 @@
 def square_array(array)
-  number = array
- while array
+  puts array.Math.sqrt  
 
 end
